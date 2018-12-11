@@ -1,4 +1,4 @@
-message: Config from application.yml 
+message: i'm config server '0'
 spring: 
   application:  
     name:  helloworld
