@@ -1,1 +1,4 @@
-"message: Config from application.yml" 
+message: Config from application.yml 
+spring: 
+  application:  
+    name:  helloworld
